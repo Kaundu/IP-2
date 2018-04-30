@@ -1,0 +1,197 @@
+#stafstahi{
+  margin: 0px;
+  padding: 50px;
+  background-image: url("file:///home/neville/Documents/moringa-school-projects/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
+}
+#chamcha{
+  margin: 0px;
+  padding: 50px;
+  background-image: url("file:///home/neville/Documents/moringa-school-projects/mpft-ip/ip2/assets/foodtop/lunch.jpg");
+}
+#chajio{
+  margin: 0px;
+  padding: 50px;
+  background-image: url("file:///home/neville/Documents/moringa-school-projects/mpft-ip/ip2/assets/foodtop/dinner.jpg");
+}
+#party{
+  padding: 25px;
+  margin-top: 0px;
+  margin-right: 0px;
+  background-color: #F15A29;`
+}
+#happy{
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding: 25px;
+  margin-top: 0px;
+}
+#kas{
+  margin: 0px;
+}
+.jumbotron{
+  margin: 0px;
+  height: 700;
+}
+.row{
+  margin-top: 100px;
+}
+#fastfood {
+ background-image: url(../assets/backgrounds/foodsBg.jpg);
+ height: 599px;
+ padding-top: 150px;
+ padding-bottom: 15px;
+}
+#navs {
+ width: 1150px;
+}
+.light {
+ background-color: rgb(255, 255, 255);
+ color: #F15A29;
+ text-align: center;
+ margin-top: 0px;
+ width: 1150px;
+}
+#cust{
+  text-align: center;
+}
+#sub {
+ background-image: url("../assets/backgrounds/subscribe.jpg");
+ height: 301px;
+ text-align: center;
+ color: rgb(255, 255, 255);
+}
+
+#pulldown {
+ padding-top: 50px;
+}
+#subinput {
+ color: white;
+ background-color: rgba(176, 174, 174, 0.35);
+ border: none;
+ outline: none;
+ height: 40px;
+ width: 350px;
+}
+
+#subbutton {
+ color: rgb(255, 255, 255);
+ background-color: #F15A29;
+ height: 40px;
+ width: 150px;
+}
+.fast1 {
+ padding-left: 100px;
+}
+
+.fast2 {
+ padding-left: 50px;
+ padding-right: 50px;
+}
+#foot {
+ background-color: #F15A29;
+ text-align: center;
+ height: 310px;
+ color: rgb(255, 255, 255);
+}
+
+#footertop {
+ padding-top: 35px;
+ padding-bottom: 35px;
+}
+
+
+#view1 {
+ border-style: solid;
+ border-color: #F15A29;
+ border-width: thin;
+ color: #F15A29;
+ background-color: rgb(255, 255, 255);
+}
+
+#view2 {
+ border-style: solid;
+ border-color: #F15A29;
+ border-width: thin;
+ color: #F15A29;
+ background-color: rgb(255, 255, 255);
+}
+
+.colour {
+ padding-top: 100px;
+ color: #F15A29;
+}
+
+#mov {
+ padding-left: 120px
+}
+
+.act {
+ color: #F15A29;
+ font-weight: bold;
+}
+
+.inact {
+ color: rgb(0, 0, 0);
+ font-weight: bold;
+}
+#menu {
+ text-align: left;
+}
+#lower {
+ padding-top: 100px;
+}
+
+#no {
+ padding: 0px;
+ margin: 0px;
+}
+
+.don {
+ box-shadow: 2px 2px 2px 2px grey;
+}
+
+.vl {
+ border-left: 1px solid rgb(187, 187, 187);
+ height: 200px;
+}
+
+.customer {
+ color: #F15A29;
+}
+
+.customers {
+ background-color: rgb(255, 255, 255);
+}
+.sidenav {
+ height: 100%;
+ width: 0;
+ position: fixed;
+ z-index: 1;
+ top: 0;
+ left: 0;
+ background-color: #F15A29;
+ overflow-x: hidden;
+ padding-top: 60px;
+ transition: 0.5s;
+}
+
+.sidenav a {
+ padding: 8px 8px 8px 32px;
+ text-decoration: none;
+ font-size: 25px;
+ color: #000000;
+ display: block;
+ transition: 0.3s;
+}
+
+.sidenav a:hover {
+ color: #ffffff;
+}
+
+.sidenav .closebtn {
+ position: absolute;
+ top: 0;
+ right: 25px;
+ font-size: 36px;
+ margin-left: 50px;
+}
